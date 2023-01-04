@@ -1,0 +1,2 @@
+# cubosAcademy
+All exercicses 
