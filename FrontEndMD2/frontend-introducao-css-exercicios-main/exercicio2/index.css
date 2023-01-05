@@ -1,0 +1,29 @@
+.side {
+    display: inline-flex;
+    padding: 1rem;
+}
+
+.down {
+    display: block;
+}
+
+.green {
+    width: 8rem;
+    height: 8rem;
+    background-color: green;
+}
+
+.red {
+
+    width: 8rem;
+    height: 8rem;
+    background-color: red;
+}
+
+
+.blue {
+
+    width: 8rem;
+    height: 8rem;
+    background-color: blue;
+}
