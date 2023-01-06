@@ -34,3 +34,7 @@
     text-shadow: 2px 3px red;
 
 }
+
+.caps {
+    text-transform: uppercase;
+}
