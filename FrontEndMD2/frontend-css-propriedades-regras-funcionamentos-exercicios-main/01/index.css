@@ -5,3 +5,11 @@
     border-style: dotted;
     max-height: 25rem;
 }
+
+.foto:hover {
+    border: 3px solid #433079;
+    padding: 5px;
+    border-radius: 0%;
+    border-style: double;
+    max-height: 25rem;
+}
