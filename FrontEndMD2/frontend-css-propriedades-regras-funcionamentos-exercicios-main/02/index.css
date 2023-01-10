@@ -4,11 +4,7 @@
 
 .menu {
     size: 10rem;
-
-
 }
-
-.menu:hover {}
 
 .menu ul {
     display: block;
