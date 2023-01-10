@@ -1,0 +1,52 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu {
+    size: 10rem;
+
+
+}
+
+.menu:hover {}
+
+.menu ul {
+    display: block;
+    list-style-type: none;
+    background-color: #2c74fa;
+    margin: 10px;
+    height: fit-content;
+    width: 9rem;
+    border-radius: 5%;
+    padding: 0;
+    border: 1px solid #0c1cffaf;
+
+}
+
+.menu ul:hover {
+    border-radius: 5%;
+    align-items: center;
+}
+
+.menu ul li {
+    display: list-item;
+    padding: 0.5rem;
+
+}
+
+.menu ul li:hover {
+    border-radius: 5%;
+    background-color: rgb(160, 188, 241);
+    color: #f1f1f1;
+    font-weight: 500;
+    list-style-type: "> ";
+    list-style-position: inside;
+
+}
+
+.menu ul li a {
+    text-transform: capitalize;
+    text-decoration: none;
+    font-weight: 500;
+    color: #f1f1f1;
+}
